@@ -23,18 +23,18 @@
             "types" : {
                 "backpack" : "Ryggsäck",
                 "emote" : "Emote",
-                "glider" : "Segelflygplan",
+                "glider" : "Fallskärmsglidare",
                 "emoji" : "Emoji",
                 "loading" : "Laddningsskärm",
-                "outfit" : "Kläder",
-                "pickaxe" : "Pickaxe",
+                "outfit" : "Kläder/Utkläddning",
+                "pickaxe" : "Hacka",
                 "skydive" : "Frittfall Spår",
                 "umbrella" : "Paraply",
                 "spray" : "Spray",
                 "toy" : "Leksak",
                 "pet" : "Husdjur",
                 "music" : "Musik",
-                "wrap" : "Hinna",
+                "wrap" : "Wrap",
                 "bundle" : "Bunt",
                 "misc" : "Blandat"
             },
@@ -50,7 +50,7 @@
         },
         "nav" : {
             "home" : "hem",
-            "shop" : "shop",
+            "shop" : "affär",
             "cosmetics" : {
                 "dropdown" : "kosmetika",
                 "upcoming" : "kommande",
@@ -63,7 +63,7 @@
             },
             "news" : "nyheter",
             "modes" : "modes",
-            "randomiser" : "randomiser",
+            "randomiser" : "slumpmässare",
             "about" : {
                 "dropdown" : "handla om",
                 "translate" : "översätt",
