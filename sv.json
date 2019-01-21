@@ -23,7 +23,7 @@
             "types" : {
                 "backpack" : "Ryggsäck",
                 "emote" : "Emote",
-                "glider" : "Segelflygplan",
+                "glider" : "Glidare",
                 "emoji" : "Emoji",
                 "loading" : "Laddningsskärm",
                 "outfit" : "Kläder",
@@ -34,7 +34,7 @@
                 "toy" : "Leksak",
                 "pet" : "Husdjur",
                 "music" : "Musik",
-                "wrap" : "Hinna",
+                "wrap" : "Vapen Wrap",
                 "bundle" : "Bunt",
                 "misc" : "Blandat"
             },
